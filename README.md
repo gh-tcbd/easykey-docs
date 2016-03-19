@@ -1,2 +1,2 @@
 # easykey-docs
-Information for easykey 
+server: gh-tcbd.dyladan.me
